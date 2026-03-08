@@ -1,1 +1,1 @@
-# MyStars-Privacy
+# MyStars
